@@ -57,10 +57,6 @@ if porridge == "blueberry":
 
 ## Math
 
-In-line math: $x + y = z$
-
-Block math:
-
 ---
 
 ## Fragments
